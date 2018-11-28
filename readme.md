@@ -15,7 +15,7 @@ Get a [PDF version](./angular-dev-roadmap.pdf).
 ## Topics covered + suggested resources
 
 1. - [ ] The basics:
-    - - [ ]HTML
+    - [ ]HTML
       - - [x] [marksheet.io](https://marksheet.io/)
       - - [ ][MDN on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - - [ ]CSS
